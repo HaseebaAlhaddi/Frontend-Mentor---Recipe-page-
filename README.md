@@ -16,7 +16,7 @@
 ### Links
 
 - Solution URL: (https://github.com/HaseebaAlhaddi/Frontend-Mentor---Recipe-page-)
-- Live Site URL: (https://haseebaalhaddi.github.io/Frontend-Mentor-Social-links-profile/)
+- Live Site URL: (https://haseebaalhaddi.github.io/Frontend-Mentor---Recipe-page-/)
 
 ## My process
 
