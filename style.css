@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+body{
+    background-color: hsl(30, 54%, 90%);
+    
+    font-family: "Outfit", serif;
+    color:  hsl(30, 10%, 34%);
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 50px;
+}
+h1,h2{
+    font-family: "Young Serif", serif;
+}
+h1{
+    color: hsl(24, 5%, 18%);
+}
+main{
+    background-color:  hsl(330, 100%, 98%);
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    border-radius: 15px;
+    max-width: 650px;
+}
+.img-container img{
+    width: 100%;
+    border-radius: 20px;
+}
+p{
+    font-size: 16px;
+}
+.middel-contect{
+    background-color: hsl(332, 68%, 85%,0.2);
+    padding: 5px 20px;
+
+}
+.middel-contect h3{
+    color: hsl(332, 51%, 32%);
+}
+ul,ol{
+    list-style-position: outside;
+}
+li{
+   
+   padding: 5px 15px;
+}
+.middel-contect ul li::marker{
+    color: hsl(332, 51%, 32%);
+}
+span{
+    font-weight: 700;
+}
+h2{
+    color: hsl(14, 45%, 36%);
+}
+ul li::marker,ol li::marker{
+    color: hsl(14, 45%, 36%);
+}
+hr{
+    border: none;
+    height: 1px;
+    width: 100%;
+    background-color: hsl(30, 10%, 34%);
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+tr{
+    border-bottom: 1px solid hsl(30, 10%, 34%);
+}
+td{
+    padding: 15px;
+}
+td:nth-child(2){
+    color: hsl(14, 45%, 36%);
+    font-weight: 700;
+}
